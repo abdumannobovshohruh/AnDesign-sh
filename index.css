@@ -1,0 +1,197 @@
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+list-style: none;
+}
+body{
+font-family: 'Montserrat', sans-serif;
+}
+nav{
+background: #151515;
+}
+.an{
+font-weight: 400;
+font-size: 25px;
+color: #FFFFFF;
+}
+.anS{
+color: #FF0000;
+}
+.web{
+font-weight: 400;
+font-size: 15px;
+color: #FFFFFF;
+}
+.list{
+margin-top: 20px;
+display: flex;
+justify-content: space-between;
+}
+.list_a{
+text-decoration: none;
+color: #FFFFFF;
+font-weight: 400;
+font-size: 15px;
+}
+.listS{
+color: #FF0000;
+}
+.number{
+margin-top: 20px;
+display: flex;
+align-items: start;
+}
+.tele{
+width: 26px;
+height: 26px;
+}
+.nomer{
+font-weight: 600;
+font-size: 22px;
+color: #FFFFFF;
+}
+.zakaz{
+margin-top: 20px;
+font-weight: 400;
+font-size: 15px;
+color: #FFFFFF;
+}
+/* ======================================================== */
+.zero{
+background: url(img/photo\ 2044387907.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.busines{
+margin-top: 140px;
+font-weight: 700;
+font-size: 60px;
+/* or 53px */
+color: #FFFFFF;
+}
+.businesS{
+color: #FF0000;
+}
+.proekt{
+margin-top: 64px;
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+}
+.hush{
+margin-top: 72px;
+background: #FF0000;
+padding: 19px 53px;
+border: none;
+font-weight: 500;
+font-size: 16px;
+color: #FFFFFF;
+margin-bottom: 220px;
+}
+/* ======================================================== */
+.magazin{
+padding-top: 50px;
+font-weight: 700;
+font-size: 50px;
+color: #000000;
+}
+.night{
+padding-top: 40px;
+font-weight: 400;
+font-size: 16px;
+color: #3A3A3A;
+padding-bottom: 20px;
+}
+.learn{
+font-weight: 400;
+font-size: 15px;
+color: #050505;
+padding: 10px 60px;
+background: #FFF8F8;
+border: 0.5px thick red;
+margin-bottom: 40px;
+}
+.internetCard{
+    background: #FFF8F8;
+    margin-top: 100px;
+}
+.inCard{
+    text-align: center;
+}
+#one{
+    margin-bottom: 40px;
+}
+/* ======================================================== */
+.area{
+    margin-top: 100px;
+    background: #010101;
+}
+.wood{
+    font-weight: 800;
+font-size: 50px;
+color: #FFF8F8;
+margin-top: 100px;
+margin-bottom: 70px;
+}
+.woodS{
+  color: #FF0000;  
+}
+/* ======================================================== */
+.king{
+    display: flex;
+    align-items: center;
+}
+.stay{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 88.57%;
+/* or 31px */
+
+
+/* Фон */
+
+color: #FFF8F8;
+
+}
+.moon{
+margin-top: 20px;
+font-weight: 400;
+font-size: 18px;
+color: #FFF8F8;
+
+}
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+
+/* ======================================================== */
+/* ======================================================== */
+/* ======================================================== */
+/* ======================================================== */
