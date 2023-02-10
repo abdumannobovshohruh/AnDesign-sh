@@ -113,46 +113,38 @@ border: 0.5px thick red;
 margin-bottom: 40px;
 }
 .internetCard{
-    background: #FFF8F8;
-    margin-top: 100px;
+background: #FFF8F8;
+margin-top: 100px;
 }
 .inCard{
-    text-align: center;
+text-align: center;
 }
 #one{
-    margin-bottom: 40px;
+margin-bottom: 40px;
 }
 /* ======================================================== */
 .area{
-    margin-top: 100px;
-    background: #010101;
+margin-top: 100px;
+background: #010101;
 }
 .wood{
-    font-weight: 800;
+font-weight: 800;
 font-size: 50px;
 color: #FFF8F8;
 margin-top: 100px;
 margin-bottom: 70px;
 }
 .woodS{
-  color: #FF0000;  
+color: #FF0000;  
 }
 /* ======================================================== */
 .king{
-    display: flex;
-    align-items: center;
+display: flex;
+align-items: center;
 }
 .stay{
-    font-family: 'Montserrat';
-font-style: normal;
 font-weight: 600;
 font-size: 35px;
-line-height: 88.57%;
-/* or 31px */
-
-
-/* Фон */
-
 color: #FFF8F8;
 
 }
@@ -161,16 +153,70 @@ margin-top: 20px;
 font-weight: 400;
 font-size: 18px;
 color: #FFF8F8;
-
 }
 /* ======================================================== */
-
+.power{
+margin-top: 100px;
+font-weight: 800;
+font-size: 50px;
+color: #FFF8F8;
+margin-bottom: 50px;
+}
 /* ======================================================== */
-
+.town{
+font-weight: 900;
+font-size: 55px;
+color: #FF0000;
+}
+.fix{
+margin-top: 25px;
+font-weight: 600;
+font-size: 25px;
+color: #FFF8F8;
+}
+.gave{
+margin-top: 30px;
+font-weight: 400;
+font-size: 18px;
+color: #FFF8F8;
+}
 /* ======================================================== */
-
+.best{
+font-weight: 600;
+font-size: 16px;
+color: #FFFFFF;
+background: #FF0000;
+padding: 20px 60px;
+}
+.hold{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+}
 /* ======================================================== */
-
+.pink{
+    background: #FFF8F8;
+box-shadow: 0px 26px 76px rgba(12, 22, 36, 0.16);
+}
+.sena{
+font-weight: 800;
+font-size: 30px;
+color: #000000;
+}
+.secund{
+font-weight: 400;
+font-size: 16px;
+color: #3A3A3A;
+}
+.secundS{
+    font-weight: 700;
+}
+.pink-2{
+margin-top: 150px;
+  padding-top: 50px;
+  padding-bottom: 70px;
+    text-align: center;
+}
 /* ======================================================== */
 
 /* ======================================================== */
