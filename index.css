@@ -189,13 +189,14 @@ background: #FF0000;
 padding: 20px 60px;
 }
 .hold{
-    margin-top: 100px;
-    text-align: center;
-    margin-bottom: 100px;
+margin-top: 100px;
+text-align: center;
+margin-bottom: 100px;
 }
 /* ======================================================== */
 .pink{
-    background: #FFF8F8;
+position: relative;
+background: #FFF8F8;
 box-shadow: 0px 26px 76px rgba(12, 22, 36, 0.16);
 }
 .sena{
@@ -208,19 +209,120 @@ font-weight: 400;
 font-size: 16px;
 color: #3A3A3A;
 }
+.war{
+font-weight: 600;
+font-size: 16px;
+background: #FF0000;
+color: #FFFFFF;
+border: none;
+padding: 20px 60px;
+}
 .secundS{
-    font-weight: 700;
+font-weight: 700;
 }
 .pink-2{
 margin-top: 150px;
-  padding-top: 50px;
-  padding-bottom: 70px;
-    text-align: center;
+padding-top: 50px;
+padding-bottom: 70px;
+text-align: center;
+}
+.clara{
+position: relative;
+left: 80px;
+}
+.laptop{
+position: relative;
+top: 150px;
+left: 400px;
+}
+.sara{
+position: relative;
+left: 100px;
+}
+.carl{
+margin-top: 100px;
+background: url(img/image\ 53.png);
+width: 700px;   
+height: 500px;
+position: relative;
 }
 /* ======================================================== */
-
+.section-4{
+margin-top: 150px;
+background: #010101;
+}
+.tigCard-2{
+padding-top: 30px;
+display: flex;
+align-items: start;
+}
+.termo{
+font-weight: 800;
+font-size: 22.7749px;
+color: #FAFAFA;
+margin-left: 20px;
+}
+.korpo{
+margin-top: 20px;
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+padding-bottom: 179px;
+}
+.tigCard{
+background: rgba(22, 21, 21, 0.9);
+background: url(img/Rectangle\ 66.png);
+}
+.tigCard-3{
+margin-left: 50px;
+}
+.matem{
+width: 582px;
+height: 374px;
+}
+.matem2{
+width: 530px;
+height: 374px;
+}
+.see{
+    font-weight: 600;
+font-size: 16px;
+color: #FFFFFF;
+background: #010101;
+border: 1px solid #FAFAFA;
+padding: 12px 60px;
+margin-top: 50px;
+margin-bottom: 100px;
+}
+.xod{
+margin-top: 100px;
+font-weight: 800;
+font-size: 50px;
+color: #FF0000;
+}
+.xodS{
+    color: #010101;
+}
 /* ======================================================== */
-
+.one1{
+    font-weight: 900;
+font-size: 174.14px;
+color: #858585;
+}
+.proect{
+font-weight: 700;
+font-size: 35.9123px;
+margin-left: 20px;
+color: #000000;
+}
+.future{
+    display: flex;
+    align-items: center;
+}
+.teach{
+    width: 545px;
+height: 365px;
+}
 /* ======================================================== */
 
 /* ======================================================== */
