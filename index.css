@@ -473,8 +473,191 @@ font-size: 16px;
 color: #FFFFFF;
 text-align: center;
 }
-/* ======================================================== */
-
+/* ===================Responsive===================================== */
+@media (max-width:575px) {
+    .nomer {
+        font-weight: 600;
+        font-size: 14px;
+        color: #FFFFFF;
+    }
+    .zero{
+        width: 100%;
+        background-size: cover;
+    }
+    .busines {
+        margin-top: 34px;
+        font-weight: 700;
+        font-size: 44px;
+        color: #FFFFFF;
+    }
+    .proekt {
+        font-weight: 400;
+        font-size: 27px;
+        color: #FFFFFF;
+        text-align: center;
+        margin-left: 20px;
+    }
+    .wood {
+        font-weight: 800;
+        font-size: 31px;
+        color: #FFF8F8;
+        margin-top: 50px;
+        margin-bottom: 70px;
+    }
+    .power {
+        margin-top: 50px;
+        font-weight: 800;
+        font-size: 39px;
+        color: #FFF8F8;
+        margin-bottom: 50px;
+    }
+    .fix {
+        margin-top: 17px;
+        font-weight: 600;
+        font-size: 20px;
+        color: #FFF8F8;
+    }
+    .gave {
+        margin-top: 30px;
+        font-weight: 400;
+        font-size: 19px;
+        color: #FFF8F8;
+    }
+    .carl{
+        width: 100%;
+        height: 100%;
+    }
+    .sara {
+        width: 60%;
+        position: relative;
+        left: -11px;
+        top: -50px;
+    }
+    .clara {
+        position: relative;
+        left: 143px;
+        width: 50%;
+        top: -150px;
+    }
+    .pink-2{
+        margin-top: 64px;
+    }
+    .wood{
+        font-size: 24px;    
+    }
+    .matem{
+        margin-top: 20px;
+        width: 100%;
+    }
+    .matem2{
+        margin-top: 20px;
+        width: 100%;
+    }
+    .see{
+        font-size: 19px;
+    }
+    .xod {
+        margin-top: 49px;
+        font-weight: 800;
+        font-size: 42px;
+        color: #FF0000;
+    }
+    .one1 {
+        margin-top: 50px;
+        font-weight: 900;
+        font-size: 109.14px;
+        color: #858585;
+    }
+    .proect {
+        font-weight: 700;
+        font-size: 22.9123px;
+        margin-left: 1px;
+        color: #000000;
+        margin-top: 49px;
+    }
+    .teach{
+        width: 100%;
+        height: 100%;
+    }
+    .own {
+        font-weight: 600;
+        font-size: 16px;
+        color: #FFFFFF;
+        background: #FF0000;
+        border: none;
+        padding: 20px 100px;
+        margin-top: 165px;
+    }
+    .vash {
+        margin-top: 90px;
+        margin-bottom: 60px;
+        font-weight: 800;
+        font-size: 30px;
+        color: #FFFFFF;
+    }
+    .name{
+        width: 100%;
+        height: 100%;
+    }
+    .door {
+        background: #010101;
+        font-weight: 300;
+        font-size: 20px;
+        color: rgba(255, 255, 255, 0.5);
+        border: 1.21224px solid #FFFFFF;
+    }
+    .door, .insta{
+        width: 100%;
+        height: 100%;
+    }
+    ::placeholder{
+        padding: 0;
+        margin: 0;
+    }
+    .otpravit{
+        width: 100%;
+    }
+    .usluga {
+        margin-top: 100px;
+        font-weight: 800;
+        font-size: 30px;
+        color: #FF0000;
+        margin-bottom: 80px;
+    }
+    .deep {
+        font-weight: 600;
+        font-size: 16px;
+        color: #FFFFFF;
+        background: #FF0000;
+        padding: 15px 43px;
+        border: none;
+        margin-top: 40px;
+        margin-bottom: 50px;
+    }
+    .ana {
+        font-weight: 400;
+        font-size: 34px;
+        color: #FF0000;
+        text-align: center;
+    }
+    .webB {
+        text-align: center;
+        font-weight: 400;
+        font-size: 20px;
+        color: #FFFFFF;
+        margin-bottom: 40px;
+    }
+    .face {
+        margin-left: 48px;
+    }
+    .twe {
+        margin-top: 50px;
+        font-weight: 400;
+        font-size: 16px;
+        color: #FFFFFF;
+        text-align: center;
+    }
+}
 /* ======================================================== */
 
 /* ======================================================== */
